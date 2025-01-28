@@ -2,11 +2,11 @@
 
 <img src="https://profile-counter.glitch.me/Wingingpizza1/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Wingingpizza1.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Alejandro!;I'm+a+Estudent+Software+Developer...;And+I'm+a+proud+Mexican+Poblano)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Wingingpizza1&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
